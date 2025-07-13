@@ -9,4 +9,4 @@ license: apache-2.0
 short_description: This is the Flask based Web App.
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the Preview : https://huggingface.co/spaces/kamalsharma0/WheathApp
